@@ -1,0 +1,595 @@
+,model,price,state
+0,iPhone SE 16GB Cinza Espacial,1149.0,Excelente
+1,iPhone SE 16GB Cinza Espacial,1059.0,Muito Bom
+2,iPhone SE 16GB Cinza Espacial,979.0,Bom
+3,iPhone SE 16GB Cinza Espacial,1062.33,Bom - Sem Touch ID
+4,Iphone 6S 16GB Cinza Espacial,1699.0,Excelente
+5,Iphone 6S 16GB Cinza Espacial,1539.0,Muito Bom
+6,Iphone 6S 16GB Cinza Espacial,1619.0,Bom
+7,Iphone 6S 16GB Cinza Espacial,1619.0,Bom - Sem Touch ID
+8,iPhone 7 32GB Ouro Rosa,2429.0,Excelente
+9,iPhone 7 32GB Ouro Rosa,2379.0,Muito Bom
+10,iPhone 7 32GB Ouro Rosa,2209.0,Bom
+11,iPhone 7 32GB Ouro Rosa,2429.0,Excelente
+12,iPhone 7 32GB Ouro Rosa,2379.0,Muito Bom
+13,iPhone 7 32GB Ouro Rosa,2209.0,Bom
+14,iPhone SE 16GB Prateado,1029.0,Excelente
+15,iPhone SE 16GB Prateado,1059.0,Muito Bom
+16,iPhone SE 16GB Prateado,1029.0,Bom
+17,iPhone SE 16GB Prateado,999.0,Bom - Sem Touch ID
+18,iPhone 5 32GB Preto,799.0,Excelente
+19,iPhone 5 32GB Preto,739.0,Muito Bom
+20,iPhone 5 32GB Preto,659.0,Bom
+21,iPhone 6 16GB Prateado,1379.0,Excelente
+22,iPhone 6 16GB Prateado,1259.0,Muito Bom
+23,iPhone 6 16GB Prateado,1129.0,Bom
+24,iPhone 6 16GB Prateado,1255.67,Bom - Sem Touch ID
+25,iPhone 5C 16GB Azul,569.0,Excelente
+26,iPhone 5C 16GB Azul,569.0,Muito Bom
+27,iPhone 5C 16GB Azul,569.0,Bom
+28,iPhone 5 32GB Branco,739.0,Excelente
+29,iPhone 5 32GB Branco,739.0,Muito Bom
+30,iPhone 5 32GB Branco,739.0,Bom
+31,iPhone 5C 16GB Rosa,569.0,Excelente
+32,iPhone 5C 16GB Rosa,569.0,Muito Bom
+33,iPhone 5C 16GB Rosa,569.0,Bom
+34,iPhone 7 128GB Dourado,2544.0,Excelente
+35,iPhone 7 128GB Dourado,2639.0,Muito Bom
+36,iPhone 7 128GB Dourado,2449.0,Bom
+37,iPhone 6S 128GB Prateado,2029.0,Excelente
+38,iPhone 6S 128GB Prateado,1692.33,Muito Bom
+39,iPhone 6S 128GB Prateado,1759.0,Bom
+40,iPhone 6S 128GB Prateado,1289.0,Bom - Sem Touch ID
+41,iPhone 6S 64GB Cinza Espacial,1949.0,Excelente
+42,iPhone 6S 64GB Cinza Espacial,1629.0,Muito Bom
+43,iPhone 6S 64GB Cinza Espacial,1649.0,Bom
+44,iPhone 6S 64GB Cinza Espacial,1289.0,Bom - Sem Touch ID
+45,iPhone 5S 64GB Cinza Espacial,1129.0,Excelente
+46,iPhone 5S 64GB Cinza Espacial,1129.0,Muito Bom
+47,iPhone 5S 64GB Cinza Espacial,1129.0,Bom
+48,iPhone 5S 64GB Cinza Espacial,1129.0,Bom - Sem Touch ID
+49,iPhone 7 Plus 128GB Prateado,3229.0,Excelente
+50,iPhone 7 Plus 128GB Prateado,3199.0,Muito Bom
+51,iPhone 7 Plus 128GB Prateado,3214.0,Bom
+52,iPhone 7 Plus 128GB Prateado,3229.0,Excelente
+53,iPhone 7 Plus 128GB Prateado,3199.0,Muito Bom
+54,iPhone 7 Plus 128GB Prateado,3214.0,Bom
+55,iPhone 5 16GB Branco,649.0,Excelente
+56,iPhone 5 16GB Branco,599.0,Muito Bom
+57,iPhone 5 16GB Branco,529.0,Bom
+58,iPhone SE 64GB Ouro Rosa,1299.0,Excelente
+59,iPhone SE 64GB Ouro Rosa,1299.0,Muito Bom
+60,iPhone SE 64GB Ouro Rosa,1299.0,Bom
+61,iPhone SE 64GB Ouro Rosa,1299.0,Bom - Sem Touch ID
+62,iPhone SE 64GB Ouro Rosa,1299.0,Excelente
+63,iPhone SE 64GB Ouro Rosa,1299.0,Muito Bom
+64,iPhone SE 64GB Ouro Rosa,1299.0,Bom
+65,iPhone SE 64GB Ouro Rosa,1299.0,Bom - Sem Touch ID
+66,iPhone 7 Plus 32GB Dourado,2799.0,Excelente
+67,iPhone 7 Plus 32GB Dourado,2799.0,Muito Bom
+68,iPhone 7 Plus 32GB Dourado,2799.0,Bom
+69,Iphone 6 Plus 16GB Cinza Espacial,1699.0,Excelente
+70,Iphone 6 Plus 16GB Cinza Espacial,1599.0,Muito Bom
+71,Iphone 6 Plus 16GB Cinza Espacial,1665.67,Bom
+72,Iphone 6 Plus 16GB Cinza Espacial,1699.0,Bom - Sem Touch ID
+73,iPhone 7 128GB Ouro Rosa,2544.0,Excelente
+74,iPhone 7 128GB Ouro Rosa,2639.0,Muito Bom
+75,iPhone 7 128GB Ouro Rosa,2449.0,Bom
+76,iPhone 6 128GB Dourado,1839.0,Excelente
+77,iPhone 6 128GB Dourado,1839.0,Muito Bom
+78,iPhone 6 128GB Dourado,1839.0,Bom
+79,iPhone 6 128GB Dourado,1839.0,Bom - Sem Touch ID
+80,iPhone 7 32GB Dourado,2379.0,Excelente
+81,iPhone 7 32GB Dourado,2379.0,Muito Bom
+82,iPhone 7 32GB Dourado,2379.0,Bom
+83,iPhone 5C 8GB Rosa,489.0,Excelente
+84,iPhone 5C 8GB Rosa,489.0,Muito Bom
+85,iPhone 5C 8GB Rosa,489.0,Bom
+86,iPhone 6 128GB Prateado,1579.0,Excelente
+87,iPhone 6 128GB Prateado,1659.0,Muito Bom
+88,iPhone 6 128GB Prateado,1499.0,Bom
+89,iPhone 6 128GB Prateado,1579.0,Bom - Sem Touch ID
+90,iPhone 7 32GB Prateado,2379.0,Excelente
+91,iPhone 7 32GB Prateado,2379.0,Muito Bom
+92,iPhone 7 32GB Prateado,2379.0,Bom
+93,iPhone SE 16GB Dourado,1059.0,Excelente
+94,iPhone SE 16GB Dourado,1059.0,Muito Bom
+95,iPhone SE 16GB Dourado,1059.0,Bom
+96,iPhone SE 16GB Dourado,1059.0,Bom - Sem Touch ID
+97,iPhone SE 16GB Dourado,1059.0,Excelente
+98,iPhone SE 16GB Dourado,1059.0,Muito Bom
+99,iPhone SE 16GB Dourado,1059.0,Bom
+100,iPhone SE 16GB Dourado,1059.0,Bom - Sem Touch ID
+101,iPhone 7 256GB Preto Matte,2799.0,Excelente
+102,iPhone 7 256GB Preto Matte,2799.0,Muito Bom
+103,iPhone 7 256GB Preto Matte,2799.0,Bom
+104,iPhone 7 256GB Preto Matte,2799.0,Excelente
+105,iPhone 7 256GB Preto Matte,2799.0,Muito Bom
+106,iPhone 7 256GB Preto Matte,2799.0,Bom
+107,iPhone 5S 64GB Dourado,1129.0,Excelente
+108,iPhone 5S 64GB Dourado,1129.0,Muito Bom
+109,iPhone 5S 64GB Dourado,1129.0,Bom
+110,iPhone 5S 64GB Dourado,1129.0,Bom - Sem Touch ID
+111,iPhone 7 Plus 32GB Preto Matte,2869.0,Excelente
+112,iPhone 7 Plus 32GB Preto Matte,2799.0,Muito Bom
+113,iPhone 7 Plus 32GB Preto Matte,2834.0,Bom
+114,iPhone 7 256GB Dourado,2799.0,Excelente
+115,iPhone 7 256GB Dourado,2799.0,Muito Bom
+116,iPhone 7 256GB Dourado,2799.0,Bom
+117,iPhone 7 256GB Dourado,2799.0,Excelente
+118,iPhone 7 256GB Dourado,2799.0,Muito Bom
+119,iPhone 7 256GB Dourado,2799.0,Bom
+120,iPhone 5C 16GB Branco,534.0,Excelente
+121,iPhone 5C 16GB Branco,569.0,Muito Bom
+122,iPhone 5C 16GB Branco,499.0,Bom
+123,iPhone 6S 16GB Ouro Rosa,1429.0,Excelente
+124,iPhone 6S 16GB Ouro Rosa,1429.0,Muito Bom
+125,iPhone 6S 16GB Ouro Rosa,1429.0,Bom
+126,iPhone 6S 16GB Ouro Rosa,1429.0,Bom - Sem Touch ID
+127,Iphone 6 Plus 64GB Dourado,1759.0,Excelente
+128,Iphone 6 Plus 64GB Dourado,1759.0,Muito Bom
+129,Iphone 6 Plus 64GB Dourado,1759.0,Bom
+130,Iphone 6 Plus 64GB Dourado,1759.0,Bom - Sem Touch ID
+131,iPhone 7 128GB Preto Matte,2544.0,Excelente
+132,iPhone 7 128GB Preto Matte,2639.0,Muito Bom
+133,iPhone 7 128GB Preto Matte,2449.0,Bom
+134,iPhone 5S 32GB Prateado,829.0,Excelente
+135,iPhone 5S 32GB Prateado,879.0,Muito Bom
+136,iPhone 5S 32GB Prateado,779.0,Bom
+137,iPhone 5S 32GB Prateado,829.0,Bom - Sem Touch ID
+138,iPhone 7 Plus 128GB Ouro Rosa,3199.0,Excelente
+139,iPhone 7 Plus 128GB Ouro Rosa,3199.0,Muito Bom
+140,iPhone 7 Plus 128GB Ouro Rosa,3199.0,Bom
+141,iPhone 6S Plus 64GB Cinza Espacial,2249.0,Excelente
+142,iPhone 6S Plus 64GB Cinza Espacial,2142.33,Muito Bom
+143,iPhone 6S Plus 64GB Cinza Espacial,1929.0,Bom
+144,iPhone 6S Plus 64GB Cinza Espacial,2249.0,Bom - Sem Touch ID
+145,iPhone 7 128GB Vermelho,2699.0,Excelente
+146,iPhone 7 128GB Vermelho,2639.0,Muito Bom
+147,iPhone 7 128GB Vermelho,2669.0,Bom
+148,iPhone 5S 32GB Cinza Espacial,949.0,Excelente
+149,iPhone 5S 32GB Cinza Espacial,879.0,Muito Bom
+150,iPhone 5S 32GB Cinza Espacial,779.0,Bom
+151,iPhone 5S 32GB Cinza Espacial,869.0,Bom - Sem Touch ID
+152,iPhone 6S 64GB Cinza Espacial,1949.0,Excelente
+153,iPhone 6S 64GB Cinza Espacial,1629.0,Muito Bom
+154,iPhone 6S 64GB Cinza Espacial,1649.0,Bom
+155,iPhone 6S 64GB Cinza Espacial,1289.0,Bom - Sem Touch ID
+156,iPhone 6S 64GB Cinza Espacial,1949.0,Excelente
+157,iPhone 6S 64GB Cinza Espacial,1629.0,Muito Bom
+158,iPhone 6S 64GB Cinza Espacial,1649.0,Bom
+159,iPhone 6S 64GB Cinza Espacial,1289.0,Bom - Sem Touch ID
+160,iPhone 6 64GB Prateado,1629.0,Excelente
+161,iPhone 6 64GB Prateado,1459.0,Muito Bom
+162,iPhone 6 64GB Prateado,1299.0,Bom
+163,iPhone 6 64GB Prateado,1462.33,Bom - Sem Touch ID
+164,iPhone 6S 128GB Cinza Espacial,1589.0,Excelente
+165,iPhone 6S 128GB Cinza Espacial,1889.0,Muito Bom
+166,iPhone 6S 128GB Cinza Espacial,1589.0,Bom
+167,iPhone 6S 128GB Cinza Espacial,1289.0,Bom - Sem Touch ID
+168,iPhone SE 64GB Cinza Espacial,1162.33,Excelente
+169,iPhone SE 64GB Cinza Espacial,1299.0,Muito Bom
+170,iPhone SE 64GB Cinza Espacial,1189.0,Bom
+171,iPhone SE 64GB Cinza Espacial,999.0,Bom - Sem Touch ID
+172,iPhone 5S 32GB Dourado,879.0,Excelente
+173,iPhone 5S 32GB Dourado,879.0,Muito Bom
+174,iPhone 5S 32GB Dourado,879.0,Bom
+175,iPhone 5S 32GB Dourado,879.0,Bom - Sem Touch ID
+176,iPhone 5 16GB Preto,649.0,Excelente
+177,iPhone 5 16GB Preto,599.0,Muito Bom
+178,iPhone 5 16GB Preto,529.0,Bom
+179,iPhone 6 64GB Dourado,1629.0,Excelente
+180,iPhone 6 64GB Dourado,1459.0,Muito Bom
+181,iPhone 6 64GB Dourado,1299.0,Bom
+182,iPhone 6 64GB Dourado,1462.33,Bom - Sem Touch ID
+183,iPhone 6 64GB Dourado,1629.0,Excelente
+184,iPhone 6 64GB Dourado,1459.0,Muito Bom
+185,iPhone 6 64GB Dourado,1299.0,Bom
+186,iPhone 6 64GB Dourado,1462.33,Bom - Sem Touch ID
+187,iPhone 6 64GB Dourado,1629.0,Excelente
+188,iPhone 6 64GB Dourado,1459.0,Muito Bom
+189,iPhone 6 64GB Dourado,1299.0,Bom
+190,iPhone 6 64GB Dourado,1462.33,Bom - Sem Touch ID
+191,iPhone 5S 16GB Prateado,644.0,Excelente
+192,iPhone 5S 16GB Prateado,669.0,Muito Bom
+193,iPhone 5S 16GB Prateado,619.0,Bom
+194,iPhone 5S 16GB Prateado,644.0,Bom - Sem Touch ID
+195,iPhone 5S 16GB Prateado,644.0,Excelente
+196,iPhone 5S 16GB Prateado,669.0,Muito Bom
+197,iPhone 5S 16GB Prateado,619.0,Bom
+198,iPhone 5S 16GB Prateado,644.0,Bom - Sem Touch ID
+199,iPhone 5S 16GB Prateado,644.0,Excelente
+200,iPhone 5S 16GB Prateado,669.0,Muito Bom
+201,iPhone 5S 16GB Prateado,619.0,Bom
+202,iPhone 5S 16GB Prateado,644.0,Bom - Sem Touch ID
+203,iPhone 7 Plus 32GB Ouro Rosa,2869.0,Excelente
+204,iPhone 7 Plus 32GB Ouro Rosa,2869.0,Muito Bom
+205,iPhone 7 Plus 32GB Ouro Rosa,2869.0,Bom
+206,iPhone 5S 64GB Prateado,879.0,Excelente
+207,iPhone 5S 64GB Prateado,879.0,Muito Bom
+208,iPhone 5S 64GB Prateado,879.0,Bom
+209,iPhone 5S 64GB Prateado,879.0,Bom - Sem Touch ID
+210,iPhone 8 Plus 256GB Cinza Espacial,3999.0,Excelente
+211,iPhone 8 Plus 256GB Cinza Espacial,3999.0,Muito Bom
+212,iPhone 8 Plus 256GB Cinza Espacial,3999.0,Bom
+213,iPhone SE 32GB Cinza Espacial,,Excelente
+214,iPhone SE 32GB Cinza Espacial,,Muito Bom
+215,iPhone SE 32GB Cinza Espacial,,Bom
+216,iPhone SE 32GB Cinza Espacial,,Bom - Sem Touch ID
+217,iPhone SE 32GB Cinza Espacial,,Excelente
+218,iPhone SE 32GB Cinza Espacial,,Muito Bom
+219,iPhone SE 32GB Cinza Espacial,,Bom
+220,iPhone SE 32GB Cinza Espacial,,Bom - Sem Touch ID
+221,iPhone 5C 8GB Amarelo,439.0,Excelente
+222,iPhone 5C 8GB Amarelo,439.0,Muito Bom
+223,iPhone 5C 8GB Amarelo,439.0,Bom
+224,iPhone 6S Plus 64GB Prateado,2249.0,Excelente
+225,iPhone 6S Plus 64GB Prateado,2249.0,Muito Bom
+226,iPhone 6S Plus 64GB Prateado,2249.0,Bom
+227,iPhone 6S Plus 64GB Prateado,2249.0,Bom - Sem Touch ID
+228,iPhone SE 128GB Ouro Rosa,1469.0,Excelente
+229,iPhone SE 128GB Ouro Rosa,1234.0,Muito Bom
+230,iPhone SE 128GB Ouro Rosa,1234.0,Bom
+231,iPhone SE 128GB Ouro Rosa,999.0,Bom - Sem Touch ID
+232,iPhone 6s 32GB Ouro Rosa,1495.67,Excelente
+233,iPhone 6s 32GB Ouro Rosa,1659.0,Muito Bom
+234,iPhone 6s 32GB Ouro Rosa,1539.0,Bom
+235,iPhone 6s 32GB Ouro Rosa,1289.0,Bom - Sem Touch ID
+236,Iphone 5C 32GB Azul,599.0,Excelente
+237,Iphone 5C 32GB Azul,599.0,Muito Bom
+238,Iphone 5C 32GB Azul,599.0,Bom
+239,Samsung Galaxy S5 New Edition Duos Preto,584.0,Excelente
+240,Samsung Galaxy S5 New Edition Duos Preto,599.0,Muito Bom
+241,Samsung Galaxy S5 New Edition Duos Preto,569.0,Bom
+242,Samsung Galaxy S8 Ametista,2099.0,Excelente
+243,Samsung Galaxy S8 Ametista,1989.0,Muito Bom
+244,Samsung Galaxy S8 Ametista,1889.0,Bom
+245,Samsung Galaxy S8 Plus 64GB Ametista,2249.0,Excelente
+246,Samsung Galaxy S8 Plus 64GB Ametista,2129.0,Muito Bom
+247,Samsung Galaxy S8 Plus 64GB Ametista,2009.0,Bom
+248,Samsung Galaxy S4 i9515 Branco,409.0,Excelente
+249,Samsung Galaxy S4 i9515 Branco,409.0,Muito Bom
+250,Samsung Galaxy S4 i9515 Branco,409.0,Bom
+251,Samsung Galaxy S8 Plus 64GB Preto,2249.0,Excelente
+252,Samsung Galaxy S8 Plus 64GB Preto,2129.0,Muito Bom
+253,Samsung Galaxy S8 Plus 64GB Preto,2009.0,Bom
+254,Samsung Galaxy S7 Edge 32GB Dourado,1479.0,Excelente
+255,Samsung Galaxy S7 Edge 32GB Dourado,1379.0,Muito Bom
+256,Samsung Galaxy S7 Edge 32GB Dourado,1289.0,Bom
+257,Samsung Galaxy S5 New Edition Duos Prata,584.0,Excelente
+258,Samsung Galaxy S5 New Edition Duos Prata,599.0,Muito Bom
+259,Samsung Galaxy S5 New Edition Duos Prata,569.0,Bom
+260,Samsung Galaxy S8 Prata,2099.0,Excelente
+261,Samsung Galaxy S8 Prata,1989.0,Muito Bom
+262,Samsung Galaxy S8 Prata,1889.0,Bom
+263,Samsung Galaxy S8 Prata,2099.0,Excelente
+264,Samsung Galaxy S8 Prata,1989.0,Muito Bom
+265,Samsung Galaxy S8 Prata,1889.0,Bom
+266,Samsung Galaxy E7 Preto,609.0,Excelente
+267,Samsung Galaxy E7 Preto,519.0,Muito Bom
+268,Samsung Galaxy E7 Preto,564.0,Bom
+269,Samsung Galaxy E7 Preto,609.0,Excelente
+270,Samsung Galaxy E7 Preto,519.0,Muito Bom
+271,Samsung Galaxy E7 Preto,564.0,Bom
+272,Samsung Galaxy A5 2017 Dourado,899.0,Excelente
+273,Samsung Galaxy A5 2017 Dourado,789.0,Muito Bom
+274,Samsung Galaxy A5 2017 Dourado,844.0,Bom
+275,Samsung Galaxy J5 2016 Metal Dourado,559.0,Excelente
+276,Samsung Galaxy J5 2016 Metal Dourado,529.0,Muito Bom
+277,Samsung Galaxy J5 2016 Metal Dourado,499.0,Bom
+278,Samsung Galaxy J5 16GB Dourado,489.0,Excelente
+279,Samsung Galaxy J5 16GB Dourado,449.0,Muito Bom
+280,Samsung Galaxy J5 16GB Dourado,399.0,Bom
+281,Samsung Galaxy J7 Branco,569.0,Excelente
+282,Samsung Galaxy J7 Branco,529.0,Muito Bom
+283,Samsung Galaxy J7 Branco,499.0,Bom
+284,Samsung Galaxy S9 128GB Ultravioleta,3169.0,Excelente
+285,Samsung Galaxy S9 128GB Ultravioleta,3169.0,Muito Bom
+286,Samsung Galaxy S9 128GB Ultravioleta,3169.0,Bom
+287,Samsung Galaxy S9 128GB Ultravioleta,3169.0,Bom - Sem Touch ID
+288,Samsung Galaxy S9 128GB Ultravioleta,3169.0,Novo
+289,Samsung Galaxy Note 5 Prata,1339.0,Excelente
+290,Samsung Galaxy Note 5 Prata,1219.0,Muito Bom
+291,Samsung Galaxy Note 5 Prata,1059.0,Bom
+292,Samsung Galaxy Note 5 Prata,1339.0,Bom - Sem Touch ID
+293,Samsung Galaxy S8 Plus 128GB Preto,2569.0,Excelente
+294,Samsung Galaxy S8 Plus 128GB Preto,2569.0,Muito Bom
+295,Samsung Galaxy S8 Plus 128GB Preto,2569.0,Bom
+296,Samsung Galaxy J5 2016 Metal Branco,559.0,Excelente
+297,Samsung Galaxy J5 2016 Metal Branco,529.0,Muito Bom
+298,Samsung Galaxy J5 2016 Metal Branco,499.0,Bom
+299,Samsung Galaxy S9 Plus 128GB Preto,3519.0,Excelente
+300,Samsung Galaxy S9 Plus 128GB Preto,3519.0,Muito Bom
+301,Samsung Galaxy S9 Plus 128GB Preto,3519.0,Bom
+302,Samsung Galaxy S9 Plus 128GB Preto,3519.0,Bom - Sem Touch ID
+303,Samsung Galaxy S9 Plus 128GB Preto,3519.0,Novo
+304,Samsung Galaxy Note 5 Preto,1339.0,Excelente
+305,Samsung Galaxy Note 5 Preto,1219.0,Muito Bom
+306,Samsung Galaxy Note 5 Preto,1059.0,Bom
+307,Samsung Galaxy Note 5 Preto,1339.0,Bom - Sem Touch ID
+308,Samsung Galaxy Note 4 Branco,989.0,Excelente
+309,Samsung Galaxy Note 4 Branco,769.0,Muito Bom
+310,Samsung Galaxy Note 4 Branco,709.0,Bom
+311,Samsung Galaxy S9 Plus 128GB Cinza,3519.0,Excelente
+312,Samsung Galaxy S9 Plus 128GB Cinza,3349.0,Muito Bom
+313,Samsung Galaxy S9 Plus 128GB Cinza,3189.0,Bom
+314,Samsung Galaxy S9 Plus 128GB Cinza,3352.33,Bom - Sem Touch ID
+315,Samsung Galaxy S9 Plus 128GB Cinza,3352.33,Novo
+316,Samsung Galaxy S4 Mini Duos Preto,289.0,Excelente
+317,Samsung Galaxy S4 Mini Duos Preto,289.0,Muito Bom
+318,Samsung Galaxy S4 Mini Duos Preto,289.0,Bom
+319,Samsung Galaxy A3 2016 Preto,484.0,Excelente
+320,Samsung Galaxy A3 2016 Preto,509.0,Muito Bom
+321,Samsung Galaxy A3 2016 Preto,459.0,Bom
+322,Samsung Galaxy S5 New Edition Preto,,Excelente
+323,Samsung Galaxy S5 New Edition Preto,,Muito Bom
+324,Samsung Galaxy S5 New Edition Preto,,Bom
+325,Samsung Galaxy J1 Mini Dourado,,Excelente
+326,Samsung Galaxy J1 Mini Dourado,,Muito Bom
+327,Samsung Galaxy J1 Mini Dourado,,Bom
+328,Samsung Galaxy S9 128GB Preto,,Excelente
+329,Samsung Galaxy S9 128GB Preto,,Muito Bom
+330,Samsung Galaxy S9 128GB Preto,,Bom
+331,Samsung Galaxy S9 128GB Preto,,Bom - Sem Touch ID
+332,Samsung Galaxy S9 128GB Preto,,Novo
+333,Samsung Galaxy A7 2017 Dourado,999.0,Excelente
+334,Samsung Galaxy A7 2017 Dourado,999.0,Muito Bom
+335,Samsung Galaxy A7 2017 Dourado,999.0,Bom
+336,Samsung Galaxy A7 2017 Dourado,999.0,Novo
+337,Samsung Galaxy J2 Prime TV Preto,369.0,Excelente
+338,Samsung Galaxy J2 Prime TV Preto,369.0,Muito Bom
+339,Samsung Galaxy J2 Prime TV Preto,369.0,Bom
+340,Samsung Galaxy A7 2016 Rosa,654.0,Excelente
+341,Samsung Galaxy A7 2016 Rosa,679.0,Muito Bom
+342,Samsung Galaxy A7 2016 Rosa,629.0,Bom
+343,Samsung Galaxy J5 8GB Dourado,449.0,Excelente
+344,Samsung Galaxy J5 8GB Dourado,409.0,Muito Bom
+345,Samsung Galaxy J5 8GB Dourado,429.0,Bom
+346,Samsung Galaxy S5 New Edition Duos Dourado,584.0,Excelente
+347,Samsung Galaxy S5 New Edition Duos Dourado,599.0,Muito Bom
+348,Samsung Galaxy S5 New Edition Duos Dourado,569.0,Bom
+349,Samsung Gear Fit 2 Grande Preto,489.0,Excelente
+350,Samsung Gear Fit 2 Grande Preto,489.0,Muito Bom
+351,Samsung Gear Fit 2 Grande Preto,489.0,Bom
+352,Samsung Galaxy J7 2016 Metal Branco,569.0,Excelente
+353,Samsung Galaxy J7 2016 Metal Branco,569.0,Muito Bom
+354,Samsung Galaxy J7 2016 Metal Branco,569.0,Bom
+355,Samsung Galaxy Note 8 128GB Preto,2799.0,Excelente
+356,Samsung Galaxy Note 8 128GB Preto,2659.0,Muito Bom
+357,Samsung Galaxy Note 8 128GB Preto,2519.0,Bom
+358,Samsung Galaxy Note 8 128GB Preto,2799.0,Novo
+359,Samsung Galaxy S7 32GB Dourado,1054.0,Excelente
+360,Samsung Galaxy S7 32GB Dourado,1099.0,Muito Bom
+361,Samsung Galaxy S7 32GB Dourado,1009.0,Bom
+362,Samsung Galaxy S4 Mini Duos Branco,319.0,Excelente
+363,Samsung Galaxy S4 Mini Duos Branco,319.0,Muito Bom
+364,Samsung Galaxy S4 Mini Duos Branco,319.0,Bom
+365,Samsung Galaxy J5 Prime Rosa,609.0,Excelente
+366,Samsung Galaxy J5 Prime Rosa,609.0,Muito Bom
+367,Samsung Galaxy J5 Prime Rosa,609.0,Bom
+368,Samsung Galaxy Note 5 Dourado,1339.0,Excelente
+369,Samsung Galaxy Note 5 Dourado,1219.0,Muito Bom
+370,Samsung Galaxy Note 5 Dourado,1059.0,Bom
+371,Samsung Galaxy Note 5 Dourado,1205.67,Bom - Sem Touch ID
+372,Samsung Galaxy Grand Duos i9082 Branco,299.0,Excelente
+373,Samsung Galaxy Grand Duos i9082 Branco,259.0,Muito Bom
+374,Samsung Galaxy Grand Duos i9082 Branco,279.0,Bom
+375,Samsung Galaxy S3 Slim Duos Preto,309.0,Excelente
+376,Samsung Galaxy S3 Slim Duos Preto,309.0,Muito Bom
+377,Samsung Galaxy S3 Slim Duos Preto,309.0,Bom
+378,Samsung Galaxy S9 Plus 128GB Ultravioleta,3349.0,Excelente
+379,Samsung Galaxy S9 Plus 128GB Ultravioleta,3349.0,Muito Bom
+380,Samsung Galaxy S9 Plus 128GB Ultravioleta,3349.0,Bom
+381,Samsung Galaxy S9 Plus 128GB Ultravioleta,3349.0,Bom - Sem Touch ID
+382,Samsung Galaxy S9 Plus 128GB Ultravioleta,3349.0,Novo
+383,Samsung Galaxy A3 Duos Branco,449.0,Excelente
+384,Samsung Galaxy A3 Duos Branco,449.0,Muito Bom
+385,Samsung Galaxy A3 Duos Branco,449.0,Bom
+386,Samsung Galaxy J5 8GB Preto,449.0,Excelente
+387,Samsung Galaxy J5 8GB Preto,409.0,Muito Bom
+388,Samsung Galaxy J5 8GB Preto,429.0,Bom
+389,Samsung Galaxy A7 Branco,639.0,Excelente
+390,Samsung Galaxy A7 Branco,639.0,Muito Bom
+391,Samsung Galaxy A7 Branco,639.0,Bom
+392,Samsung Galaxy S6 Edge Plus 32GB Preto,1199.0,Excelente
+393,Samsung Galaxy S6 Edge Plus 32GB Preto,1199.0,Muito Bom
+394,Samsung Galaxy S6 Edge Plus 32GB Preto,1199.0,Bom
+395,Samsung Galaxy A5 Dourado,409.0,Excelente
+396,Samsung Galaxy A5 Dourado,409.0,Muito Bom
+397,Samsung Galaxy A5 Dourado,409.0,Bom
+398,Samsung Galaxy A7 2016 Dourado,799.0,Excelente
+399,Samsung Galaxy A7 2016 Dourado,679.0,Muito Bom
+400,Samsung Galaxy A7 2016 Dourado,629.0,Bom
+401,Samsung Galaxy Note 4 Preto,709.0,Excelente
+402,Samsung Galaxy Note 4 Preto,709.0,Muito Bom
+403,Samsung Galaxy Note 4 Preto,709.0,Bom
+404,Samsung Galaxy A7 2016 Preto,799.0,Excelente
+405,Samsung Galaxy A7 2016 Preto,679.0,Muito Bom
+406,Samsung Galaxy A7 2016 Preto,629.0,Bom
+407,Samsung Galaxy A5 Branco,499.0,Excelente
+408,Samsung Galaxy A5 Branco,459.0,Muito Bom
+409,Samsung Galaxy A5 Branco,409.0,Bom
+410,Samsung Galaxy J5 16GB Branco,489.0,Excelente
+411,Samsung Galaxy J5 16GB Branco,449.0,Muito Bom
+412,Samsung Galaxy J5 16GB Branco,399.0,Bom
+413,Samsung Galaxy J5 16GB Preto,489.0,Excelente
+414,Samsung Galaxy J5 16GB Preto,449.0,Muito Bom
+415,Samsung Galaxy J5 16GB Preto,399.0,Bom
+416,Samsung Galaxy A7 2017 Preto,999.0,Excelente
+417,Samsung Galaxy A7 2017 Preto,999.0,Muito Bom
+418,Samsung Galaxy A7 2017 Preto,999.0,Bom
+419,Samsung Galaxy A7 2017 Preto,999.0,Novo
+420,Samsung Galaxy A5 2016 Rosa,599.0,Excelente
+421,Samsung Galaxy A5 2016 Rosa,539.0,Muito Bom
+422,Samsung Galaxy A5 2016 Rosa,489.0,Bom
+423,Samsung Galaxy J7 2016 Metal Preto,569.0,Excelente
+424,Samsung Galaxy J7 2016 Metal Preto,529.0,Muito Bom
+425,Samsung Galaxy J7 2016 Metal Preto,549.0,Bom
+426,Samsung Galaxy A5 Preto,499.0,Excelente
+427,Samsung Galaxy A5 Preto,459.0,Muito Bom
+428,Samsung Galaxy A5 Preto,409.0,Bom
+429,Samsung Galaxy A5 2017 Preto,899.0,Excelente
+430,Samsung Galaxy A5 2017 Preto,789.0,Muito Bom
+431,Samsung Galaxy A5 2017 Preto,699.0,Bom
+432,Samsung Galaxy A5 2016 Dourado,599.0,Excelente
+433,Samsung Galaxy A5 2016 Dourado,539.0,Muito Bom
+434,Samsung Galaxy A5 2016 Dourado,489.0,Bom
+435,Samsung Galaxy J7 Dourado,569.0,Excelente
+436,Samsung Galaxy J7 Dourado,529.0,Muito Bom
+437,Samsung Galaxy J7 Dourado,499.0,Bom
+438,Samsung Galaxy J7 Dourado,569.0,Excelente
+439,Samsung Galaxy J7 Dourado,529.0,Muito Bom
+440,Samsung Galaxy J7 Dourado,499.0,Bom
+441,Samsung Galaxy J7 2016 Metal Dourado,529.0,Excelente
+442,Samsung Galaxy J7 2016 Metal Dourado,529.0,Muito Bom
+443,Samsung Galaxy J7 2016 Metal Dourado,529.0,Bom
+444,Samsung Galaxy J5 Prime Dourado,579.0,Excelente
+445,Samsung Galaxy J5 Prime Dourado,579.0,Muito Bom
+446,Samsung Galaxy J5 Prime Dourado,579.0,Bom
+447,Samsung Galaxy S7 Edge 32GB Preto,1479.0,Excelente
+448,Samsung Galaxy S7 Edge 32GB Preto,1379.0,Muito Bom
+449,Samsung Galaxy S7 Edge 32GB Preto,1289.0,Bom
+450,Samsung Galaxy J5 Prime Preto,609.0,Excelente
+451,Samsung Galaxy J5 Prime Preto,579.0,Muito Bom
+452,Samsung Galaxy J5 Prime Preto,594.0,Bom
+453,Samsung Galaxy A5 2016 Preto,599.0,Excelente
+454,Samsung Galaxy A5 2016 Preto,539.0,Muito Bom
+455,Samsung Galaxy A5 2016 Preto,489.0,Bom
+456,Samsung Galaxy J7 Prime Preto,659.0,Excelente
+457,Samsung Galaxy J7 Prime Preto,659.0,Muito Bom
+458,Samsung Galaxy J7 Prime Preto,659.0,Bom
+459,Samsung Galaxy S6 Flat Preto,759.0,Excelente
+460,Samsung Galaxy S6 Flat Preto,759.0,Muito Bom
+461,Samsung Galaxy S6 Flat Preto,759.0,Bom
+462,Samsung Galaxy E5 4G Duos Branco,469.0,Excelente
+463,Samsung Galaxy E5 4G Duos Branco,419.0,Muito Bom
+464,Samsung Galaxy E5 4G Duos Branco,444.0,Bom
+465,Samsung Galaxy E5 4G Duos Branco,469.0,Excelente
+466,Samsung Galaxy E5 4G Duos Branco,419.0,Muito Bom
+467,Samsung Galaxy E5 4G Duos Branco,444.0,Bom
+468,Samsung Galaxy A3 2016 Dourado,569.0,Excelente
+469,Samsung Galaxy A3 2016 Dourado,569.0,Muito Bom
+470,Samsung Galaxy A3 2016 Dourado,569.0,Bom
+471,Samsung Galaxy J5 8GB Branco,449.0,Excelente
+472,Samsung Galaxy J5 8GB Branco,449.0,Muito Bom
+473,Samsung Galaxy J5 8GB Branco,449.0,Bom
+474,Samsung Galaxy S3 I9300 Branco,369.0,Excelente
+475,Samsung Galaxy S3 I9300 Branco,369.0,Muito Bom
+476,Samsung Galaxy S3 I9300 Branco,369.0,Bom
+477,Samsung Galaxy J1 Mini Preto,249.0,Excelente
+478,Samsung Galaxy J1 Mini Preto,249.0,Muito Bom
+479,Samsung Galaxy J1 Mini Preto,249.0,Bom
+480,Motorola Moto X Style 32GB Branco Bambu,989.0,Excelente
+481,Motorola Moto X Style 32GB Branco Bambu,909.0,Muito Bom
+482,Motorola Moto X Style 32GB Branco Bambu,869.0,Bom
+483,Motorola Moto G5 Ouro,629.0,Excelente
+484,Motorola Moto G5 Ouro,599.0,Muito Bom
+485,Motorola Moto G5 Ouro,614.0,Bom
+486,Motorola Moto X Play 32GB 4G Dual Branco,799.0,Excelente
+487,Motorola Moto X Play 32GB 4G Dual Branco,799.0,Muito Bom
+488,Motorola Moto X Play 32GB 4G Dual Branco,799.0,Bom
+489,Motorola Moto G4 Plus Branco,619.0,Excelente
+490,Motorola Moto G4 Plus Branco,619.0,Muito Bom
+491,Motorola Moto G4 Plus Branco,619.0,Bom
+492,Motorola Moto X Style 32GB Branco,909.0,Excelente
+493,Motorola Moto X Style 32GB Branco,909.0,Muito Bom
+494,Motorola Moto X Style 32GB Branco,909.0,Bom
+495,Motorola Moto G4 Play DTV Dourado,499.0,Excelente
+496,Motorola Moto G4 Play DTV Dourado,459.0,Muito Bom
+497,Motorola Moto G4 Play DTV Dourado,479.0,Bom
+498,Motorola Moto X Style 32GB Branco Dourado,989.0,Excelente
+499,Motorola Moto X Style 32GB Branco Dourado,909.0,Muito Bom
+500,Motorola Moto X Style 32GB Branco Dourado,889.0,Bom
+501,Motorola Moto G3 16GB 4G Dual HDTV Branco,409.0,Excelente
+502,Motorola Moto G3 16GB 4G Dual HDTV Branco,409.0,Muito Bom
+503,Motorola Moto G3 16GB 4G Dual HDTV Branco,409.0,Bom
+504,Motorola Moto G4 DTV Preto,489.0,Excelente
+505,Motorola Moto G4 DTV Preto,489.0,Muito Bom
+506,Motorola Moto G4 DTV Preto,489.0,Bom
+507,Motorola Moto X Style 32GB Preto,1019.0,Excelente
+508,Motorola Moto X Style 32GB Preto,879.0,Muito Bom
+509,Motorola Moto X Style 32GB Preto,869.0,Bom
+510,Motorola Moto X Force 64GB Preto,1019.0,Excelente
+511,Motorola Moto X Force 64GB Preto,1019.0,Muito Bom
+512,Motorola Moto X Force 64GB Preto,1019.0,Bom
+513,Motorola Moto G4 Plus Preto Vermelho,619.0,Excelente
+514,Motorola Moto G4 Plus Preto Vermelho,559.0,Muito Bom
+515,Motorola Moto G4 Plus Preto Vermelho,589.0,Bom
+516,Motorola Moto Maxx 64GB,929.0,Excelente
+517,Motorola Moto Maxx 64GB,699.0,Muito Bom
+518,Motorola Moto Maxx 64GB,814.0,Bom
+519,Motorola Moto G5 Plus Ouro,709.0,Excelente
+520,Motorola Moto G5 Plus Ouro,709.0,Muito Bom
+521,Motorola Moto G5 Plus Ouro,709.0,Bom
+522,Motorola Moto G3 16GB 4G Dual Preto,439.0,Excelente
+523,Motorola Moto G3 16GB 4G Dual Preto,404.0,Muito Bom
+524,Motorola Moto G3 16GB 4G Dual Preto,369.0,Bom
+525,Motorola Moto G3 16GB 4G Dual Preto,439.0,Excelente
+526,Motorola Moto G3 16GB 4G Dual Preto,404.0,Muito Bom
+527,Motorola Moto G3 16GB 4G Dual Preto,369.0,Bom
+528,Motorola Moto Z Power Edition Preto,1739.0,Excelente
+529,Motorola Moto Z Power Edition Preto,1739.0,Muito Bom
+530,Motorola Moto Z Power Edition Preto,1739.0,Bom
+531,Motorola Moto X Play 16GB 4G Dual Preto,569.0,Excelente
+532,Motorola Moto X Play 16GB 4G Dual Preto,569.0,Muito Bom
+533,Motorola Moto X Play 16GB 4G Dual Preto,569.0,Bom
+534,LG G6 32GB Astro Black,1549.0,Excelente
+535,LG G6 32GB Astro Black,1549.0,Muito Bom
+536,LG G6 32GB Astro Black,1549.0,Bom
+537,LG G6 32GB Astro Black,1549.0,Excelente
+538,LG G6 32GB Astro Black,1549.0,Muito Bom
+539,LG G6 32GB Astro Black,1549.0,Bom
+540,LG G3 D855 Preto,629.0,Excelente
+541,LG G3 D855 Preto,549.0,Muito Bom
+542,LG G3 D855 Preto,469.0,Bom
+543,LG G4 H818P Titânio,789.0,Excelente
+544,LG G4 H818P Titânio,789.0,Muito Bom
+545,LG G4 H818P Titânio,789.0,Bom
+546,LG G3 Beat D724 Dourado,429.0,Excelente
+547,LG G3 Beat D724 Dourado,429.0,Muito Bom
+548,LG G3 Beat D724 Dourado,429.0,Bom
+549,LG G4 H818P Dourado,739.0,Excelente
+550,LG G4 H818P Dourado,739.0,Muito Bom
+551,LG G4 H818P Dourado,739.0,Bom
+552,LG G6 64GB Platinum,1729.0,Excelente
+553,LG G6 64GB Platinum,1729.0,Muito Bom
+554,LG G6 64GB Platinum,1729.0,Bom
+555,LG G6 64GB Platinum,1729.0,Excelente
+556,LG G6 64GB Platinum,1729.0,Muito Bom
+557,LG G6 64GB Platinum,1729.0,Bom
+558,LG G3 Beat D724 Branco,479.0,Excelente
+559,LG G3 Beat D724 Branco,479.0,Muito Bom
+560,LG G3 Beat D724 Branco,479.0,Bom
+561,LG Nexus 5 D821 Branco,499.0,Excelente
+562,LG Nexus 5 D821 Branco,499.0,Muito Bom
+563,LG Nexus 5 D821 Branco,499.0,Bom
+564,Sony Xperia Z3 Compact Branco,669.0,Excelente
+565,Sony Xperia Z3 Compact Branco,679.0,Muito Bom
+566,Sony Xperia Z3 Compact Branco,659.0,Bom
+567,Sony Xperia Z2 Branco,619.0,Excelente
+568,Sony Xperia Z2 Branco,619.0,Muito Bom
+569,Sony Xperia Z2 Branco,619.0,Bom
+570,Sony Xperia Z5 Branco,,Excelente
+571,Sony Xperia Z5 Branco,,Muito Bom
+572,Sony Xperia Z5 Branco,,Bom
+573,Sony Xperia Z3 TV Branco,719.0,Excelente
+574,Sony Xperia Z3 TV Branco,719.0,Muito Bom
+575,Sony Xperia Z3 TV Branco,719.0,Bom
+576,Sony Xperia Z3 Plus Verde Água,1089.0,Excelente
+577,Sony Xperia Z3 Plus Verde Água,1089.0,Muito Bom
+578,Sony Xperia Z3 Plus Verde Água,1089.0,Bom
+579,Sony Xperia Z5 Preto,1199.0,Excelente
+580,Sony Xperia Z5 Preto,1199.0,Muito Bom
+581,Sony Xperia Z5 Preto,1199.0,Bom
+582,Sony Xperia Z3 Dual Preto,869.0,Excelente
+583,Sony Xperia Z3 Dual Preto,869.0,Muito Bom
+584,Sony Xperia Z3 Dual Preto,869.0,Bom
+585,Sony Xperia Z3 Plus Cobre,1209.0,Excelente
+586,Sony Xperia Z3 Plus Cobre,1209.0,Muito Bom
+587,Sony Xperia Z3 Plus Cobre,1209.0,Bom
+588,Sony Xperia Z5 Premium Cromo,,Excelente
+589,Sony Xperia Z5 Premium Cromo,,Muito Bom
+590,Sony Xperia Z5 Premium Cromo,,Bom
+591,Asus Zenfone 6 Vermelho,709.0,Excelente
+592,Asus Zenfone 6 Vermelho,709.0,Muito Bom
+593,Asus Zenfone 6 Vermelho,709.0,Bom

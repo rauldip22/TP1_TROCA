@@ -1,0 +1,11 @@
+tenemos:
+- cantidad de vistas a un modelo antes de comprarlo
+- correlacion de modelos vistos
+- marcas mas vistas vs marcas mas compradas
+
+ideas:
+- marcas mas compradas por region (on progress) poner intensidad de cantidad de compras por ciudad
+- obtener precios de cada sku (web scrapping)
+- fidelidad de compra de los clientes con cada marca
+- identificar camino del usuario antes de la compra y los caminos de compras perdidas
+- cuanto tiempo pasa desde la vista de un producto hasta comprarlo
